@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tomventa
 - 👀 I’m interested in cybersecurity stuff
-- 🌱 I’m currently learning Python and Infosec
+- 🌱 I’m currently learning Golang and Infosec
 - 📫 You can reach me via my website
