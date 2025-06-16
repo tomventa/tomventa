@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @tomventa
 - 👀 I’m interested in cybersecurity stuff
 - 🌱 I’m currently learning Golang, Infosec and VueJS
+- ⭐ I'm currently contributing to the [mayhem firmware](https://github.com/portapack-mayhem/mayhem-firmware)
 - 📫 You can reach me via my website
