@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @tomventa
-- 👀 I’m interested in cybersecurity stuff
