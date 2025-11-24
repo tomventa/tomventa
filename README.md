@@ -1,1 +1,4 @@
 - 👋 Hi, I’m @tomventa
+- 🦫 I write software, mostly in go, and design systems that handle large amounts of data.
+- ☀️ By day I lead the development of OdontoPrice, a medtech company.
+- 🌙 By night I hunt for security bugs
